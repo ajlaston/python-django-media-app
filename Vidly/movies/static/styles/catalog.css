@@ -1,0 +1,13 @@
+.cat-container {
+    list-style-type: none;
+    margin: 15px;
+    padding: 20px;
+    border: 1px solid rgb(128, 128, 128);
+}
+
+.card-style {
+    width: 12rem;
+    padding: 10px;
+    margin: 5px;
+    display: inline-block;
+}
